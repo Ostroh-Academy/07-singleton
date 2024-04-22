@@ -9,7 +9,7 @@
 
             Parallel.ForEach(numbers, i =>
             {
-                var vm = VoteMachine.Instance;
+                VoteMachine vm = VoteMachine.Instance;
                 vm.RegisterVote();
             });
 
