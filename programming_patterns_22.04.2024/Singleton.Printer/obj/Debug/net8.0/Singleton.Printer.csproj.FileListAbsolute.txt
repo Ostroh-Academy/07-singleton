@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\bin\Debug\net8.0\Singleton.Printer.exe
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\bin\Debug\net8.0\Singleton.Printer.deps.json
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\bin\Debug\net8.0\Singleton.Printer.runtimeconfig.json
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\bin\Debug\net8.0\Singleton.Printer.dll
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\bin\Debug\net8.0\Singleton.Printer.pdb
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\Singleton.Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\Singleton.Printer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\Singleton.Printer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\Singleton.Printer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\Singleton.Printer.dll
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\refint\Singleton.Printer.dll
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\Singleton.Printer.pdb
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\Singleton.Printer.genruntimeconfig.cache
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Printer\obj\Debug\net8.0\ref\Singleton.Printer.dll

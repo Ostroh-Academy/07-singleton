@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\programming_patterns_22.04.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05C12FD-0836-4AB1-A825-9FB4FF1346E3}|Singleton.Printer\\Singleton.Printer.csproj|c:\\users\\admin\\source\\repos\\programming_patterns_22.04.2024\\singleton.printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05C12FD-0836-4AB1-A825-9FB4FF1346E3}|Singleton.Printer\\Singleton.Printer.csproj|solutionrelative:singleton.printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752C032B-37A9-48C5-B7C1-759FCF652B88}|Singleton.Example\\Singleton.Example.csproj|c:\\users\\admin\\source\\repos\\programming_patterns_22.04.2024\\singleton.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752C032B-37A9-48C5-B7C1-759FCF652B88}|Singleton.Example\\Singleton.Example.csproj|solutionrelative:singleton.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\programming_patterns_22.04.2024\\Singleton.Printer\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton.Printer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\programming_patterns_22.04.2024\\Singleton.Printer\\Program.cs",
+              "RelativeToolTip": "Singleton.Printer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:14:50.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\programming_patterns_22.04.2024\\Singleton.Example\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton.Example\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\programming_patterns_22.04.2024\\Singleton.Example\\Program.cs",
+              "RelativeToolTip": "Singleton.Example\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:38:28.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

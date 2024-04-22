@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\bin\Debug\net8.0\Singleton.Example.exe
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\bin\Debug\net8.0\Singleton.Example.deps.json
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\bin\Debug\net8.0\Singleton.Example.runtimeconfig.json
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\bin\Debug\net8.0\Singleton.Example.dll
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\bin\Debug\net8.0\Singleton.Example.pdb
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\Singleton.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\Singleton.Example.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\Singleton.Example.AssemblyInfo.cs
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\Singleton.Example.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\Singleton.Example.dll
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\refint\Singleton.Example.dll
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\Singleton.Example.pdb
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\Singleton.Example.genruntimeconfig.cache
+C:\Users\Admin\source\repos\programming_patterns_22.04.2024\Singleton.Example\obj\Debug\net8.0\ref\Singleton.Example.dll
