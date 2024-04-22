@@ -11,12 +11,12 @@
 
 ## Короткий опис коду з поясненнями
 class PDFPrinter: <br>
-private PDFPrinter() { }: Приватний конструктор, який робить неможливим створення екземплярів класу ззовні<br>
-private static PDFPrinter _instance;: Приватне статичне поле _instance для зберігання єдиного екземпляру класу PDFPrinter<br>
-public static PDFPrinter GetInstance(): Статичний метод GetInstance(), який повертає єдиний екземпляр класу PDFPrinter. Якщо екземпляр ще не існує, він створюється, в іншому випадку повертається наявний екземпляр<br>
-public void PrintPDF(string source): Метод PrintPDF, який приймає рядок source і виводить повідомлення про друк PDF з вказаного джерела<br>
+- private PDFPrinter() { }: Приватний конструктор, який робить неможливим створення екземплярів класу ззовні<br>
+- private static PDFPrinter _instance;: Приватне статичне поле _instance для зберігання єдиного екземпляру класу PDFPrinter<br>
+- public static PDFPrinter GetInstance(): Статичний метод GetInstance(), який повертає єдиний екземпляр класу PDFPrinter. Якщо екземпляр ще не існує, він створюється, в іншому випадку повертається наявний екземпляр<br>
+- public void PrintPDF(string source): Метод PrintPDF, який приймає рядок source і виводить повідомлення про друк PDF з вказаного джерела<br>
 class Program:<br>
-PDFPrinter pdfPrinter = PDFPrinter.GetInstance();: Отримання єдиного екземпляру класу PDFPrinter за допомогою методу GetInstance()<br>
-pdfPrinter.PrintPDF("Лекційний матеріал");<br>
+- PDFPrinter pdfPrinter = PDFPrinter.GetInstance();: Отримання єдиного екземпляру класу PDFPrinter за допомогою методу GetInstance()<br>
+- pdfPrinter.PrintPDF("Лекційний матеріал");<br>
 pdfPrinter.PrintPDF("Наукова стаття");<br>
 pdfPrinter.PrintPDF("Дипломна робота");: Виклики методу PrintPDF для друку PDF з різних джерел<br>
