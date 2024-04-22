@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u043F\u0440\u043E\u0433\u0438\\repository\\Portfolio\\07-signleton-Mostovyi-Vitalii1\\Lab-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E2FA8F-B783-4C22-9A5D-9285754DF55C}|Lab-7.csproj|e:\\\u043F\u0440\u043E\u0433\u0438\\repository\\portfolio\\07-signleton-mostovyi-vitalii1\\lab-7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E2FA8F-B783-4C22-9A5D-9285754DF55C}|Lab-7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u043F\u0440\u043E\u0433\u0438\\repository\\Portfolio\\07-signleton-Mostovyi-Vitalii1\\Lab-7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\\u043F\u0440\u043E\u0433\u0438\\repository\\Portfolio\\07-signleton-Mostovyi-Vitalii1\\Lab-7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:14:01.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
