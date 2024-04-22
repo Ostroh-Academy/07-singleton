@@ -1,0 +1,14 @@
+D:\ОА\Патерни проектування\Patterns\Lab7Example\bin\Debug\net8.0\Lab7Example.exe
+D:\ОА\Патерни проектування\Patterns\Lab7Example\bin\Debug\net8.0\Lab7Example.deps.json
+D:\ОА\Патерни проектування\Patterns\Lab7Example\bin\Debug\net8.0\Lab7Example.runtimeconfig.json
+D:\ОА\Патерни проектування\Patterns\Lab7Example\bin\Debug\net8.0\Lab7Example.dll
+D:\ОА\Патерни проектування\Patterns\Lab7Example\bin\Debug\net8.0\Lab7Example.pdb
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\Lab7Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\Lab7Example.AssemblyInfoInputs.cache
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\Lab7Example.AssemblyInfo.cs
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\Lab7Example.csproj.CoreCompileInputs.cache
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\Lab7Example.dll
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\refint\Lab7Example.dll
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\Lab7Example.pdb
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\Lab7Example.genruntimeconfig.cache
+D:\ОА\Патерни проектування\Patterns\Lab7Example\obj\Debug\net8.0\ref\Lab7Example.dll
