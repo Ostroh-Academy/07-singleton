@@ -29,7 +29,7 @@ namespace Singleton.Printer
         {
             PDFPrinter pdfPrinter = PDFPrinter.GetInstance();
 
-            pdfPrinter.PrintPDF("Лекційний матеріал");
+            pdfPrinter.PrintPDF("Лекцiйний матерiал");
             pdfPrinter.PrintPDF("Наукова стаття");
             pdfPrinter.PrintPDF("Дипломна робота");
 
