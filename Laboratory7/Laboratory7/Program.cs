@@ -2,36 +2,14 @@
 
 internal static class Program
 {
-    private static void Main()
+    private static void Main(string[] args)
     {
-        ConsoleWrapper console = ConsoleWrapper.Instance;
+        PdfPrinter printer = PdfPrinter.Instance;
 
-        console.WriteLine("Welcome to ConsoleWrapper!");
-        console.WriteLine("Enter your name:");
-        string? name = console.ReadLine();
-        console.WriteLine($"Hello, {name}!");
+        printer.PrintDocument("Mathematics Lecture Notes", "Introduction to Calculus...");
+        printer.PrintDocument("Physics Lab Report", "Experiment Setup and Data Analysis...");
+        printer.PrintDocument("Literature Essay", "Analysis of Shakespeare's Hamlet...");
 
-        console.WriteLine("Press any key to continue...");
-        console.ReadKey();
-
-        console.Clear();
-
-        console.WriteLine("This is ConsoleWrapper in action!");
-        console.Write("Type something and press Enter: ");
-        string? input = console.ReadLine();
-        console.WriteLine($"You typed: {input}");
-
-        console.WriteLine("\nPress any key to move the cursor...");
-        console.ReadKey();
-        
-        console.Clear();
-        console.WriteLine("Moving cursor...");
-
-        // Demonstrating cursor movement
-        console.SetCursorPosition(10, 5);
-        console.WriteLine("Cursor moved to (10,5)");
-
-        console.WriteLine("\nPress any key to exit...");
-        console.ReadKey();
+        Console.WriteLine("\nPDF printing completed.");
     }
 }
