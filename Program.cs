@@ -1,49 +1,88 @@
-﻿namespace singleton
+﻿using System;
+using System.Collections.Generic;
+
+public class CartItem
 {
-    using System;
+    public string ProductName { get; set; }
+    public double Price { get; set; }
+    public int Quantity { get; set; }
+}
 
-    namespace RefactoringGuru.DesignPatterns.Singleton.Conceptual.NonThreadSafe
+public sealed class ShoppingCart
+{
+    private static ShoppingCart instance;
+
+    private ShoppingCart()
     {
-        public sealed class Singleton
+        Items = new List<CartItem>();
+    }
+
+    public static ShoppingCart Instance
+    {
+        get
         {
-            private Singleton() { }
-
-            private static Singleton _instance;
-
-            public static Singleton GetInstance()
+            if (instance == null)
             {
-                if (_instance == null)
-                {
-                    _instance = new Singleton();
-                }
-                return _instance;
+                instance = new ShoppingCart();
             }
-
-            public void SomeBusinessLogic()
-            {
-                Console.WriteLine("Executing business logic...");
-            }
+            return instance;
         }
+    }
 
-        class Program
+    public List<CartItem> Items { get; private set; }
+
+    public void AddItem(string productName, double price, int quantity)
+    {
+        Items.Add(new CartItem { ProductName = productName, Price = price, Quantity = quantity });
+    }
+
+    public void RemoveItem(string productName)
+    {
+        CartItem itemToRemove = Items.Find(item => item.ProductName == productName);
+        if (itemToRemove != null)
         {
-            static void Main(string[] args)
-            {
-                Singleton s1 = Singleton.GetInstance();
-                Singleton s2 = Singleton.GetInstance();
+            Items.Remove(itemToRemove);
+        }
+    }
 
-                if (s1 == s2)
-                {
-                    Console.WriteLine("Singleton works, both variables contain the same instance.");
-                }
-                else
-                {
-                    Console.WriteLine("Singleton failed, variables contain different instances.");
-                }
+    public void ClearCart()
+    {
+        Items.Clear();
+    }
 
-                // Виклик бізнес-логіки
-                s1.SomeBusinessLogic();
-            }
+    public double CalculateTotal()
+    {
+        double total = 0;
+        foreach (CartItem item in Items)
+        {
+            total += item.Price * item.Quantity;
+        }
+        return total;
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        ShoppingCart cart = ShoppingCart.Instance;
+
+        cart.AddItem("Футболка", 25.99, 2);
+        cart.AddItem("Джинси", 49.99, 1);
+
+        cart.RemoveItem("Футболка");
+
+        Console.WriteLine("Товари у кошику:");
+        foreach (CartItem item in cart.Items)
+        {
+            Console.WriteLine($"{item.ProductName} - Ціна: {item.Price}, Кількість: {item.Quantity}");
+        }
+        Console.WriteLine($"Загальна сума: {cart.CalculateTotal()}");
+
+        ShoppingCart anotherCart = ShoppingCart.Instance;
+        if (cart == anotherCart)
+        {
+            Console.WriteLine("Заборонено створення нових екземплярів кошика.");
         }
     }
 }
