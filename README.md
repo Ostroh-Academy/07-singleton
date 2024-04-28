@@ -1,4 +1,5 @@
-# Патерн одинак (Singleton)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Z0eBgHwz)
+# Патерн одинак (Singleton) 3 варіант
 
 - Потрібно вивчити теоретичний матеріал та написати власноруч приклад коду для патерну будівельник.
 - Закомітити даний приклад та зробити pull request.
