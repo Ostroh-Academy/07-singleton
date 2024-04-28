@@ -1,3 +1,6 @@
+![image](https://github.com/Ostroh-Academy/07-signleton-OleksiiKIiain/assets/85789953/608985ec-23fb-4aed-81ce-d172504a08e9)
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Z0eBgHwz)
 # Патерн одинак (Singleton)
 
