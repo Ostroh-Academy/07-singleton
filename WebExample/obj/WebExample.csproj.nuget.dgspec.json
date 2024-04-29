@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\07-signleton-ValeriiaChyrko\\WebExample\\WebExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\07-signleton-ValeriiaChyrko\\WebExample\\WebExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\07-signleton-ValeriiaChyrko\\WebExample\\WebExample.csproj",
+        "projectName": "WebExample",
+        "projectPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\07-signleton-ValeriiaChyrko\\WebExample\\WebExample.csproj",
+        "packagesPath": "C:\\Users\\Valeriia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\07-signleton-ValeriiaChyrko\\WebExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Valeriia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
