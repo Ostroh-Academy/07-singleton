@@ -1,29 +1,53 @@
-﻿public sealed class Singleton
+﻿public sealed class WebsiteSingleton
 {
-    private Singleton() { }
+    private static WebsiteSingleton instance;
+    private static readonly object lockObject = new();
 
-    private static Singleton _instance;
+    private WebsiteSingleton() { }
 
-    public static Singleton GetInstance()
+    public static WebsiteSingleton GetInstance()
     {
-        if (_instance == null)
-            _instance = new Singleton();
-        return _instance;
+        if (instance == null)
+        {
+            lock (lockObject)
+            {
+                if (instance == null)
+                    instance = new WebsiteSingleton();
+            }
+        }
+
+        return instance;
     }
 
-    public void SomeBusinessLogic() { }
+    public void PerformAction(string action, string username)
+    {
+        lock (lockObject)
+        {
+            Console.WriteLine($"User '{username}' is performing action: {action}");
+            Thread.Sleep(1000);
+            Console.WriteLine($"Action '{action}' performed successfully by user '{username}'");
+        }
+    }
 }
 
-public class Program
+class Program
 {
     public static void Main(string[] args)
     {
-        var s1 = Singleton.GetInstance();
-        var s2 = Singleton.GetInstance();
+        var website = WebsiteSingleton.GetInstance();
 
-        if (s1 == s2)
-            Console.WriteLine("Singleton works, both variables contain the same instance.");
-        else
-            Console.WriteLine("Singleton failed, variables contain different instances.");
+        var user1Thread = new Thread(() => UserAction(website, "User1"));
+        var user2Thread = new Thread(() => UserAction(website, "User2"));
+
+        user1Thread.Start();
+        user2Thread.Start();
+
+        user1Thread.Join();
+        user2Thread.Join();
+
+        Console.WriteLine("All users actions completed.");
     }
+
+    static void UserAction(WebsiteSingleton website, string username) =>
+        website.PerformAction("Performing some action", username);
 }
