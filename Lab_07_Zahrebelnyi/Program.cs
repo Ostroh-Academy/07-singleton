@@ -4,19 +4,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        House house1 = House.GetInstance();
-        house1.DisplayHouseInfo();
+        VirtualPrinter printer1 = VirtualPrinter.GetInstance();
 
-        House house2 = House.GetInstance();
-        house2.DisplayHouseInfo();
+        printer1.PrintEmployeeReport("Employee Report for April 2024");
+        printer1.PrintSalaryReport("Salary Report for April 2024");
+        printer1.PrintFinancialDocument("Quarterly Financial Statement");
 
-        if (house1 == house2)
+        VirtualPrinter printer2 = VirtualPrinter.GetInstance();
+
+        if (printer1 == printer2)
         {
-            Console.WriteLine("house1 and house2 are the same instance.");
+            Console.WriteLine("printer1 and printer2 are the same instance.");
         }
         else
         {
-            Console.WriteLine("house1 and house2 are different instances.");
+            Console.WriteLine("printer1 and printer2 are different instances.");
         }
     }
 }
