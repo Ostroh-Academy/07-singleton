@@ -1,0 +1,14 @@
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\bin\Debug\net8.0\lab7_patterns.exe
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\bin\Debug\net8.0\lab7_patterns.deps.json
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\bin\Debug\net8.0\lab7_patterns.runtimeconfig.json
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\bin\Debug\net8.0\lab7_patterns.dll
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\bin\Debug\net8.0\lab7_patterns.pdb
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\lab7_patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\lab7_patterns.AssemblyInfoInputs.cache
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\lab7_patterns.AssemblyInfo.cs
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\lab7_patterns.csproj.CoreCompileInputs.cache
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\lab7_patterns.dll
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\refint\lab7_patterns.dll
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\lab7_patterns.pdb
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\lab7_patterns.genruntimeconfig.cache
+C:\Users\gorasima\source\repos\lab7_patterns\lab7_patterns\obj\Debug\net8.0\ref\lab7_patterns.dll
