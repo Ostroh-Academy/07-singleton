@@ -1,0 +1,15 @@
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\bin\Debug\net7.0\ExampleSingleton.exe
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\bin\Debug\net7.0\ExampleSingleton.deps.json
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\bin\Debug\net7.0\ExampleSingleton.runtimeconfig.json
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\bin\Debug\net7.0\ExampleSingleton.dll
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\bin\Debug\net7.0\ExampleSingleton.pdb
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ExampleSingleton.csproj.AssemblyReference.cache
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ExampleSingleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ExampleSingleton.AssemblyInfoInputs.cache
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ExampleSingleton.AssemblyInfo.cs
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ExampleSingleton.csproj.CoreCompileInputs.cache
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ExampleSingleton.dll
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\refint\ExampleSingleton.dll
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ExampleSingleton.pdb
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ExampleSingleton.genruntimeconfig.cache
+D:\learning\programming\С#\3rd year\Patterns\Lab7\ExampleSingleton\obj\Debug\net7.0\ref\ExampleSingleton.dll
