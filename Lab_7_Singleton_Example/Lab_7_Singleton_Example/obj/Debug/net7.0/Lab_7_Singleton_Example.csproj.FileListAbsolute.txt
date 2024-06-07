@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\bin\Debug\net7.0\Lab_7_Singleton_Example.exe
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\bin\Debug\net7.0\Lab_7_Singleton_Example.deps.json
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\bin\Debug\net7.0\Lab_7_Singleton_Example.runtimeconfig.json
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\bin\Debug\net7.0\Lab_7_Singleton_Example.dll
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\bin\Debug\net7.0\Lab_7_Singleton_Example.pdb
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\Lab_7_Singleton_Example.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\Lab_7_Singleton_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\Lab_7_Singleton_Example.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\Lab_7_Singleton_Example.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\Lab_7_Singleton_Example.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\Lab_7_Singleton_Example.dll
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\refint\Lab_7_Singleton_Example.dll
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\Lab_7_Singleton_Example.pdb
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\Lab_7_Singleton_Example.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Lab_7_Singleton_Example\Lab_7_Singleton_Example\obj\Debug\net7.0\ref\Lab_7_Singleton_Example.dll
