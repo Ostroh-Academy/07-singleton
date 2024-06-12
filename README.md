@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Z0eBgHwz)
 # Патерн одинак (Singleton)
 
 - Потрібно вивчити теоретичний матеріал та написати власноруч приклад коду для патерну sigleton.
@@ -32,3 +33,7 @@
 23. Створити Singleton для системи відстеження запасів на складі, яка регулює рівень запасів і використання матеріалів.
 24. Розробити Singleton для централізованої системи зв'язку в медичній установі, що включає обмін медичними даними між відділеннями.
 25. Реалізувати Singleton для системи збору та аналізу трафіку на корпоративному веб-сайті, яка забезпечує збір даних з різних джерел і їх аналіз.
+
+## UML Diagram
+![image](https://github.com/Ostroh-Academy/07-signleton-havrylchyk/assets/92024271/8a433257-16bb-4d4b-b27e-723b1febc602)
+

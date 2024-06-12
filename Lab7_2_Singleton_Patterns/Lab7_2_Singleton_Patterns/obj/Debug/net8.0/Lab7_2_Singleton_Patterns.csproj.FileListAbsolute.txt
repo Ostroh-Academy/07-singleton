@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\bin\Debug\net8.0\Lab7_2_Singleton_Patterns.exe
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\bin\Debug\net8.0\Lab7_2_Singleton_Patterns.deps.json
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\bin\Debug\net8.0\Lab7_2_Singleton_Patterns.runtimeconfig.json
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\bin\Debug\net8.0\Lab7_2_Singleton_Patterns.dll
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\bin\Debug\net8.0\Lab7_2_Singleton_Patterns.pdb
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\Lab7_2_Singleton_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\Lab7_2_Singleton_Patterns.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\Lab7_2_Singleton_Patterns.AssemblyInfo.cs
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\Lab7_2_Singleton_Patterns.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\Lab7_2_Singleton_Patterns.dll
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\refint\Lab7_2_Singleton_Patterns.dll
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\Lab7_2_Singleton_Patterns.pdb
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\Lab7_2_Singleton_Patterns.genruntimeconfig.cache
+C:\Users\anast\source\repos\Lab7_2_Singleton_Patterns\Lab7_2_Singleton_Patterns\obj\Debug\net8.0\ref\Lab7_2_Singleton_Patterns.dll
